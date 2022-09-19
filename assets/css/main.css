@@ -1984,10 +1984,13 @@ button > a{
 	justify-content: space-evenly;
 }
 
-#recaptcha {
-	justify-content: center;
+#recap-btn {
+	display: flex;
 }
 
+#recap-btn > div {
+	justify-content: center;
+}
 
 
 /* Section/Article */
