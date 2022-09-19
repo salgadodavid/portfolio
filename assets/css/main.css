@@ -1985,10 +1985,6 @@ button > a{
 }
 
 #recap-btn {
-	display: flex;
-}
-
-#recap-btn > div {
 	justify-content: center;
 }
 
