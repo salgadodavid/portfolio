@@ -1984,6 +1984,10 @@ button > a{
 	justify-content: space-evenly;
 }
 
+#recaptcha {
+	justify-content: center;
+}
+
 
 
 /* Section/Article */
